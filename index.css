@@ -1,0 +1,149 @@
+.navbar{
+    background-image: url('https://cdn.vox-cdn.com/thumbor/4-W-mGcaHic9BSoMh0aKolmOnSQ=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19799158/Switch_ACNH_ND0220_screen_14.jpg');
+    display:flex;
+    justify-content: space-between;
+    width: 100vw;
+    height: 70px;
+   
+}
+
+
+
+#home {
+    width: 100px;
+    height:35px;
+    text-transform:capitalize;
+    border-radius: 20px;
+    border:transparent;
+    font-family: 'Gothic A1', sans-serif;
+
+}
+
+
+
+
+
+#islanders {
+    width:100px;
+    height:35px;
+    text-transform:capitalize;
+    border-radius: 20px;
+    border:transparent;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+#clothing {
+    width:100px;
+    height:35px;
+    text-transform:capitalize;
+    border-radius: 20px;
+    border:transparent;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+#furniture {
+    width:100px;
+    height:35px;
+    text-transform:capitalize;
+    border-radius: 20px;
+    border:transparent;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+#plants {
+    width:100px;
+    height:35px;
+    text-transform:capitalize;
+    border-radius: 20px;
+    border:transparent;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+#fruit {
+    width: 100px;
+    height:35px;
+    text-transform:capitalize;
+    border-radius: 20px;
+    border:transparent;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+.about-section {
+    padding: 30px;
+    background-image: url('https://pbs.twimg.com/media/EPngkecWAAAI16e.jpg');
+    height: 130vh;
+    width:100vw;
+    
+
+}
+
+#logo {
+    display: block;
+    margin: 0 auto;
+    margin-top: -50px;
+    width:500px;
+    height:300px;
+  
+
+    
+}
+#acnh {
+    display: block;
+    margin:0 auto;
+    width: 500px;
+    height: 350px;
+    margin-top: -30px;
+    border-radius: 1000px;
+}
+
+#the-islanders {
+    width: 100vw;
+    height: 100vh;
+    background-color:mintcream;
+    margin-top:-45px;
+
+}
+#characters {
+    font-size: 40px;
+    font-family: 'Gothic A1', sans-serif;
+    display: block;
+    text-align: center;
+    
+    font-family: 'Bree Serif';
+    color:teal;
+    
+
+}
+/*a {
+    text-decoration: none;*/
+
+    #raymond {
+        width: 310px;
+        height: 250px;
+    }
+    #marshal {
+        width: 120px;
+        height: 170px;
+    }
+
+    #beau {
+        width:230px;
+        height: 230px;
+        
+    }
+
+    #zucker {
+        width: 170px;
+        height: 200px;
+    }
+    #audie {
+        width:220px;
+        height:220px;
+    }
+    #stitches {
+        width: 131px;
+        height: 190px;
+    }
+
+    
+    
